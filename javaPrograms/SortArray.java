@@ -48,6 +48,7 @@ public class SortArray {
 		{
 			System.out.println(arr[i]+",");
 		}
+		input.close();
 			
 		}
 
